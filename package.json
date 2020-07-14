@@ -1,0 +1,34 @@
+{
+  "name": "react-native-bre-status-bar-height",
+  "version": "1.0.0",
+  "description": "Get status bar height for React Native App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brennanngo1292000/react-native-bre-status-bar-height.git"
+  },
+  "keywords": [
+    "react",
+    "reactnative",
+    "react-native",
+    "statusbar",
+    "status-bar"
+  ],
+  "author": "brennanngo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brennanngo1292000/react-native-bre-status-bar-height/issues"
+  },
+  "homepage": "https://github.com/brennanngo1292000/react-native-bre-status-bar-height#readme",
+  "devDependencies": {
+    "flow-bin": "^0.104",
+    "react-native": "^0.63.0",
+    "typescript": "^3.3.3333"
+  },
+  "peerDependencies": {
+    "react-native": "*"
+  }
+}
