@@ -25,7 +25,7 @@
   "homepage": "https://github.com/brennanngo1292000/react-native-bre-status-bar-height#readme",
   "devDependencies": {
     "flow-bin": "^0.104",
-    "react-native": "^0.63.0",
+    "react-native": "^0.64.1",
     "typescript": "^3.3.3333"
   },
   "peerDependencies": {
